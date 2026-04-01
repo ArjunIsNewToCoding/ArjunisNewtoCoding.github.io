@@ -1,4 +1,4 @@
-# ArjunisNewtoCoding.github.io
+# ImperiumCraft guide
 a guide to the Minecraft server ImperiumCraft
 Hello! new to the politics and drama of the Minecraft server ImperiumCraft? well no worries this is a guide on everything that ImperiumCraft has to offer 
 

@@ -76,3 +76,11 @@ This is the sixth tier of a town in towny in this tier you can claim upto **1008
 This is the seventh tier of a town in towny in this tier you can claim upto **1108** chunks from which 1100 chunks are buyable chunks which can be bought with in-game currency and 8 are given to the town by default
 ### Metropolis (28 and above player towns)
 This is the eighth tier of a town in towny in this tier you can claim upto **1208** chunks from which 1200 chunks are buyable chunks which can be bought with in-game currency and 8 are given to the town by default
+## Plots
+now that we know how to create towns and claim land lets go ahead and move on to **Plots** 
+### How do plots work?
+1 plot = 1 chunk so for example a town with 172 plots is a town thats 172 chunks
+### Plot types and commands related to Plots
+there a few plottypes in towny (use `/plot set (plottype)`) to set one
+- `default` the default plottype this type is assigned to every plot by default
+- `shop` this plottype is mainly used for creating chestshops cause chestshops do not work in the wilderness or default plot

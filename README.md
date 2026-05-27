@@ -79,8 +79,12 @@ This is the eighth tier of a town in towny in this tier you can claim upto **120
 ## Plots
 now that we know how to create towns and claim land lets go ahead and move on to **Plots** 
 ### How do plots work?
-1 plot = 1 chunk so for example a town with 172 plots is a town thats 172 chunks
+1 plot = 1 chunk so for example a town with 172 plots is a town thats 172 chunks you can also claim a plot by standing on the plot and doing `/plot claim` if its for forsale which can be done by standing on the plot and doing `/plot forsale (amount)` or `/plot fs (amount)` once a player has claimed a plot only two ppl can access the plot without needing trust access these two ppl are the player and the town owner to trust someone in your plot stand on your plot and do `/plot trust (username"`
 ### Plot types and commands related to Plots
 there a few plottypes in towny (use `/plot set (plottype)`) to set one
 - `default` the default plottype this type is assigned to every plot by default
-- `shop` this plottype is mainly used for creating chestshops cause chestshops do not work in the wilderness or default plot
+- `shop` this plottype is mainly used for creating chestshops cause chestshops do not work in the wilderness or default plot (must own the plot to create chestshop on the shop plot)
+- `inn` allows players which are not from enemy nation to use beds to set their spawn point
+- `embassy` allows players which do not belong to the town to claim the plot
+- `arena` automatically enables pvp where the arena plottype is set
+- `jail` enemies who died during a raid or town outlaws can be sent to this plot which doesnt allow any commands and requies the player to pay a fine via in-game moneh to get out of the jail plot in-game

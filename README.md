@@ -3,8 +3,8 @@ a guide to the Minecraft server Crown of Victoria or also known as COV
 Hello! new to the politics and drama of the Minecraft server COV? well no worries this is a guide on everything that COV has to offer 
 
 ## REQUIREMENTS
-Minecraft java or bedrock edition and the server doesnt support cracked Minecraft and its never gonna be supported
-any Minecraft version as long as its 1.21.x
+Minecraft java or bedrock edition and the server doesnt support cracked Minecraft and cracked mc never gonna be supported but you can play the server on
+any Minecraft version as long as its 1.21.x and you have a internet connection
 a internet connection
 ## Joining The Server (java edition)
 To join the Server and start your journey as a Minecraft java edition player you need to 

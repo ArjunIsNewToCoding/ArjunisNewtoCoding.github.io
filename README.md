@@ -11,7 +11,7 @@ To join the Server and start your journey as a Minecraft java edition player you
 1. open Minecraft java edition
 2. click on Multiplayer 
 3. click on Add Server 
-4. put ImperiumCraft as the Minecraft server name (you can put it as anything you like)
+4. put COV as the Minecraft server name (you can put it as anything you like)
 5. then you need to put in `185.206.148.147:25591` in the server address
 6. then click on Done
 7. and then select the server in the server list and press Join Server
@@ -52,3 +52,17 @@ in-game money in your town bank is required to claim land
 There are many levels of a Town such as a Large Town, City etc this section will list every level of a town and go in depth about each of them the higher the town level the more land you can claim
 ### Settlement (1 player town)
 This is the first tier of a town in towny this tier only allows you to claim **108** chunks from which 100 are buyable chunks which can be bought with the in-game currency and 8 townblocks are given to you from the start
+### Hamlet (2 - 6 player towns)
+This is the second tier of a town in towny in this tier you can claim upto **508** chunks form which 500 are buyable chunks which can be bought with in-game currency and 8 are given to the town by default
+### Village (6 - 10 player towns)
+This is the third tier of a town in towny in this tier you can claim upto **658** chunks from which 650 chunks are buyable chunks which can be bought with in-game currency and 8 are given to the town by default
+### Town (10 - 14 player towns)
+This is the fourth tier of a town in towny in this tier you can claim upto **758** chunks from which 750 chunks are buyable chunks which can be bought with in-game currency and 8 are given to the town by default
+### Large Town (14 - 20 player towns)
+This is the fifth tier of a town in towny in this tier you can claim upto **858** chunks from which 850 chunks are buyable chunks which can be bought with in-game currency and 8 are given to the town by default
+### City (20 - 24 player towns)
+This is the sixth tier of a town in towny in this tier you can claim upto **1008** chunks from which 1000 chunks are buyable chunks which can be bought with in-game currency and 8 are given to the town by default
+### Large City (24 - 28 player towns)
+This is the seventh tier of a town in towny in this tier you can claim upto **1108** chunks from which 1100 chunks are buyable chunks which can be bought with in-game currency and 8 are given to the town by default
+### Metropolis (28 and above player towns)
+This is the eighth tier of a town in towny in this tier you can claim upto **1208** chunks from which 1200 chunks are buyable chunks which can be bought with in-game currency and 8 are given to the town by default

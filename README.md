@@ -5,7 +5,6 @@ Hello! new to the politics and drama of the Minecraft server COV? well no worrie
 ## REQUIREMENTS
 Minecraft java or bedrock edition and the server doesnt support cracked Minecraft and cracked mc never gonna be supported but you can play the server on
 any Minecraft version as long as its 1.21.x and you have a internet connection
-a internet connection
 ## Joining The Server (java edition)
 To join the Server and start your journey as a Minecraft java edition player you need to 
 1. open Minecraft java edition
@@ -48,6 +47,17 @@ to claim land in towny you must do
 do `/t claim 4` to claim a lot of chunks in a large radius
 you can buy more claimblocks using in-game money by doing the command `/t buy bonus`
 in-game money in your town bank is required to claim land
+## Useful towny commands 
+- `/t menu` to open up a gui where you can easily manage your town
+- `/t claim outpost` to claim a chunk which very far away from your town (claiming an outpost takes 500 in-game money from your town bank)
+- `/t spawn (town name)` use this to teleport to your own town or other public towns
+- `/t outlaw add (username)` makes a player a outlaw inside your town meaning they cant teleport to your town via /t spawn (town name) and cant teleport to theirs while inside your claims
+- `/tfly` allows you to fly inside your claims
+- `/t list` lists all the towns
+- `/t toggle mobs|fire|pvp on|off` use this command to toggle on and off mobs, firespread, and pvp in your town
+- `/t invite (username)` invite a player whos not already in a town to your town
+- `/t kick (username)` kick a player from your town
+- `/t help` use this command to see a list of commands related to towny
 ## Levels of Towns
 There are many levels of a Town such as a Large Town, City etc this section will list every level of a town and go in depth about each of them the higher the town level the more land you can claim
 ### Settlement (1 player town)

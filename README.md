@@ -39,13 +39,16 @@ do `/t` to view about your town
 ## How to deposit in-game money in your town bank
 To deposit in-game money into your Town bank you must do
 do `/t deposit (amount)`
-if you dont deposit atleast 5 in-game money into your Town bank after 24 hours your town will collapse due to the upkeep not being fullfilled depositing in-game money in your town bank is also required for claiming land
+if you dont deposit atleast 5 in-game money into your Town bank after 24 hours your town will collapse due to the upkeep not being fullfilled depositing in-game money in your town bank its also required for claiming land
 you can only deposit in-game money to the town/nation bank on a bank plot which you can set by standing on a chunk and doing `/plot set bank`
+upkeep rises by 5 everytime you claim a new chunk
 ## How to claim land in Towny
 to claim land in towny you must do
 `/t claim` to claim the chunk your standing on
 do `/t claim 4` to claim a lot of chunks in a large radius
-you can buy more claimblocks using in-game money by doing the command /t buy bonus
+you can buy more claimblocks using in-game money by doing the command `/t buy bonus`
 in-game money in your town bank is required to claim land
 ## Levels of Towns
 There are many levels of a Town such as a Large Town, City etc this section will list every level of a town and go in depth about each of them the higher the town level the more land you can claim
+### Settlement (1 player town)
+This is the first tier of a town in towny this tier only allows you to claim **108** chunks from which 100 are buyable chunks which can be bought with the in-game currency and 8 townblocks are given to you from the start

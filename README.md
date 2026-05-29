@@ -97,7 +97,13 @@ These commands are quite similar to town commands just that instead of starting 
 - `/n invite (town name)` invites a town to the nation
 - `/n create (name)` creates a nation
 - `/n rank add (username) (rank)` assigns someone a rank within the nation
-- `/n deposit (amount)` use this to deposit in-game money to the nation bank must stand on a bank plot for the command to work (nation upkeep is 250 in-game money
+- `/n deposit (amount)` use this to deposit in-game money to the nation bank must stand on a bank plot for the command to work (nation upkeep is 250 in-game money)
 ### Nation Ideologies
 now what are ideologies so basically ideologies is a type of goverment you can pick for your nation each ideology gives its own distinct buffs and debuffs picking an ideology for your nation costs 1000 in-game money and you can pick an ideology for your nation by do `/ideology` to open up a gui mennu to select from the 8 ideologies (must own the nation to pick an ideology for the nation) after picking one theres a cooldown to switching ideologies 
 ## SiegeWar
+SiegeWar is basically a war plugin to add the option to wage war on other nations in-game 
+### How to start a siege on another nation in SiegeWar
+1. do `/n enemy add (name of the nation)` to make a nation your enemy in-game
+2. place a coloured banner just one block away from the town's claimed land (make sure you have deposited enough money into your nation bank first)
+3. after that do `/sw nextsession` and wait for the next battlesession to start or ask the admins to start one forcefully
+### How the siege mechnics work

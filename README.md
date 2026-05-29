@@ -32,7 +32,7 @@ After your done with the above you will see a npc called "Towny" right in front 
 
 # Towny 
 now that you have spawned into the actual World its time to create a town or join a town which can be done by doing
-do `/t join (town name)` to join a town
+do `/t invite (username)` to invite someone to a town
 do `/t create (town name)` to create a town (this process takes 250 of your in-game money)
 do `/t` to view about your town
 ## How to deposit in-game money in your town bank
@@ -58,6 +58,7 @@ in-game money in your town bank is required to claim land
 - `/t invite (username)` invite a player whos not already in a town to your town
 - `/t kick (username)` kick a player from your town
 - `/t help` use this command to see a list of commands related to towny
+- `/t rank add (username) (rank)` assigns the member of your town a rank within the town
 ## Levels of Towns
 There are many levels of a Town such as a Large Town, City etc this section will list every level of a town and go in depth about each of them the higher the town level the more land you can claim
 ### Settlement (1 player town)
@@ -88,3 +89,14 @@ there a few plottypes in towny (use `/plot set (plottype)`) to set one
 - `embassy` allows players which do not belong to the town to claim the plot
 - `arena` automatically enables pvp where the arena plottype is set
 - `jail` enemies who died during a raid or town outlaws can be sent to this plot which doesnt allow any commands and requies the player to pay a fine via in-game moneh to get out of the jail plot in-game
+- `bank` this plot is used to deposit in-game moneh into the town bank
+## Nations
+Nations are like towns in towny but instead of towns being a collection of players nations in towny are instead a collection of towns and nations allow for SiegeWars and assigning SiegeWar Ranks plus ideologies which we will get to later
+### Nation commands
+These commands are quite similar to town commands just that instead of starting with `/t` they start with `/n` but here are a few
+- `/n invite (town name)` invites a town to the nation
+- `/n create (name)` creates a nation
+- `/n rank add (username) (rank)` assigns someone a rank within the nation
+- `/n deposit (amount)` use this to deposit in-game money to the nation bank must stand on a bank plot for the command to work (nation upkeep is 2050 in-game money
+
+- 

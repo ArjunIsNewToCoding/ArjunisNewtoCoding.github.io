@@ -97,6 +97,7 @@ These commands are quite similar to town commands just that instead of starting 
 - `/n invite (town name)` invites a town to the nation
 - `/n create (name)` creates a nation
 - `/n rank add (username) (rank)` assigns someone a rank within the nation
-- `/n deposit (amount)` use this to deposit in-game money to the nation bank must stand on a bank plot for the command to work (nation upkeep is 2050 in-game money
-
-- 
+- `/n deposit (amount)` use this to deposit in-game money to the nation bank must stand on a bank plot for the command to work (nation upkeep is 250 in-game money
+### Nation Ideologies
+now what are ideologies so basically ideologies is a type of goverment you can pick for your nation each ideology gives its own distinct buffs and debuffs picking an ideology for your nation costs 1000 in-game money and you can pick an ideology for your nation by do `/ideology` to open up a gui mennu to select from the 8 ideologies (must own the nation to pick an ideology for the nation) after picking one theres a cooldown to switching ideologies 
+## SiegeWar

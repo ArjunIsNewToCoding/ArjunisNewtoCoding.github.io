@@ -107,3 +107,9 @@ SiegeWar is basically a war plugin to add the option to wage war on other nation
 2. place a coloured banner just one block away from the town's claimed land (make sure you have deposited enough money into your nation bank first)
 3. after that do `/sw nextsession` and wait for the next battlesession to start or ask the admins to start one forcefully
 ### How the siege mechnics work
+Once you have declared war via SiegeWar you must add SiegeWar partcipants to the Siege or else anyone who gets near the siege will get tons of debuffs to add a Siegwar participant do `/n rank add (rank)` and then add a military rank such as private, sergant, general, marshal etc
+### How to actually win a Siege
+okay so the siegewar process is like a King of The Hill game you have to capture the bannerby standing on it and then staying near it for around 7 minutes after that points will be added to your team slowly which you can view by `/sw hud (name of siege)` and points subtracted from the opposing team
+# Movecraft
+What is Movecraft you might ask well its a plugin that allows you to make working planes, ships, elevators and more this is a really interesting plugin id say
+##

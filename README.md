@@ -20,7 +20,7 @@ To join the Server and start your journey as a Minecraft java edition player you
 2. click on Play
 3. go over to the Multiplayer Section
 4. click on Add Server
-5. put ImperiumCraft as the Minecraft server name (you can put it as anything you like)
+5. put COV as the Minecraft server name (you can put it as anything you like)
 6. then you need to put `185.206.148.147` in the server address section
 7. and then you need to put `25591` in the server port section
 8. done click on Add and play or you can also also click on Add then select and join the server from the multiplayer server list
@@ -112,4 +112,9 @@ Once you have declared war via SiegeWar you must add SiegeWar partcipants to the
 okay so the siegewar process is like a King of The Hill game you have to capture the bannerby standing on it and then staying near it for around 7 minutes after that points will be added to your team slowly which you can view by `/sw hud (name of siege)` and points subtracted from the opposing team
 # Movecraft
 What is Movecraft you might ask well its a plugin that allows you to make working planes, ships, elevators and more this is a really interesting plugin id say
-##
+## How to pilot a movecraft craft
+in order to pilot a movecraft craft you must first create a build for it for example if you want to pilot a Destroyer crafttype you have to first make a build for it after you have made the build place a sign on it and type the craft type you want made the build for so for example destroyer then right click it below if you have met the size and flyblocks requirements for it (will be covered soon) it will show a message in chat telling you the craft has been piloted and then list the size of the craft
+### other Movecraft controls
+- Cruise: it automatically starts moving your craft to the direction where you last moved it in manually to do this place a sign on your craft and write `CRUISE: OFF` then pilot your craft again and right click the cruise sign to enable cruise mode and right click it again to disable cruise mode
+- Release: this is used to unpilot your craft place a sign on your craft and type `Release` on it and then pilot your craft whenever you right-click the release sign it unpilots your craft
+- Helm: this sign is used to turn your craft place a sign on your craft and type `[helm]` on it and then pilot your craft again now whenever you right-click the helm sign it turn your craft
